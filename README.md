@@ -9,6 +9,7 @@ I am a skilled data analyst proficient in **Excel**, **Power BI**, **Python**, a
 - ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 - ![STATA](https://img.shields.io/badge/STATA-4A5F7A?style=for-the-badge&logo=stata&logoColor=white)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+- ![Visio](https://img.shields.io/badge/Microsoft_Visio-393939?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
 
